@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0087-scramble-string](https://github.com/janvee1201/Leetcode/tree/master/0087-scramble-string) |
+| [1048-longest-string-chain](https://github.com/janvee1201/Leetcode/tree/master/1048-longest-string-chain) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -17,6 +18,7 @@
 | [0213-house-robber-ii](https://github.com/janvee1201/Leetcode/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/janvee1201/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/janvee1201/Leetcode/tree/master/0368-largest-divisible-subset) |
+| [1048-longest-string-chain](https://github.com/janvee1201/Leetcode/tree/master/1048-longest-string-chain) |
 ## Array
 |  |
 | ------- |
@@ -27,6 +29,7 @@
 | [0213-house-robber-ii](https://github.com/janvee1201/Leetcode/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/janvee1201/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/janvee1201/Leetcode/tree/master/0368-largest-divisible-subset) |
+| [1048-longest-string-chain](https://github.com/janvee1201/Leetcode/tree/master/1048-longest-string-chain) |
 ## Math
 |  |
 | ------- |
@@ -49,4 +52,13 @@
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/janvee1201/Leetcode/tree/master/0368-largest-divisible-subset) |
+| [1048-longest-string-chain](https://github.com/janvee1201/Leetcode/tree/master/1048-longest-string-chain) |
+## Hash Table
+|  |
+| ------- |
+| [1048-longest-string-chain](https://github.com/janvee1201/Leetcode/tree/master/1048-longest-string-chain) |
+## Two Pointers
+|  |
+| ------- |
+| [1048-longest-string-chain](https://github.com/janvee1201/Leetcode/tree/master/1048-longest-string-chain) |
 <!---LeetCode Topics End-->
