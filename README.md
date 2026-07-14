@@ -7,6 +7,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/janvee1201/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0022-generate-parentheses](https://github.com/janvee1201/Leetcode/tree/master/0022-generate-parentheses) |
 | [0087-scramble-string](https://github.com/janvee1201/Leetcode/tree/master/0087-scramble-string) |
+| [0127-word-ladder](https://github.com/janvee1201/Leetcode/tree/master/0127-word-ladder) |
 | [1048-longest-string-chain](https://github.com/janvee1201/Leetcode/tree/master/1048-longest-string-chain) |
 ## Dynamic Programming
 |  |
@@ -64,6 +65,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/janvee1201/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0127-word-ladder](https://github.com/janvee1201/Leetcode/tree/master/0127-word-ladder) |
 | [1048-longest-string-chain](https://github.com/janvee1201/Leetcode/tree/master/1048-longest-string-chain) |
 ## Two Pointers
 |  |
@@ -88,5 +90,6 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/janvee1201/Leetcode/tree/master/0127-word-ladder) |
 | [0994-rotting-oranges](https://github.com/janvee1201/Leetcode/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
