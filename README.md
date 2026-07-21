@@ -13,6 +13,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/janvee1201/Leetcode/tree/master/0022-generate-parentheses) |
+| [0055-jump-game](https://github.com/janvee1201/Leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/janvee1201/Leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/janvee1201/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/janvee1201/Leetcode/tree/master/0064-minimum-path-sum) |
@@ -33,6 +34,7 @@
 ## Array
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/janvee1201/Leetcode/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/janvee1201/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/janvee1201/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/janvee1201/Leetcode/tree/master/0085-maximal-rectangle) |
@@ -110,6 +112,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/janvee1201/Leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/janvee1201/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/janvee1201/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 ## Stack
