@@ -8,6 +8,7 @@
 | [0022-generate-parentheses](https://github.com/janvee1201/Leetcode/tree/master/0022-generate-parentheses) |
 | [0087-scramble-string](https://github.com/janvee1201/Leetcode/tree/master/0087-scramble-string) |
 | [0127-word-ladder](https://github.com/janvee1201/Leetcode/tree/master/0127-word-ladder) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/janvee1201/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1048-longest-string-chain](https://github.com/janvee1201/Leetcode/tree/master/1048-longest-string-chain) |
 ## Dynamic Programming
 |  |
@@ -116,6 +117,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/janvee1201/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0127-word-ladder](https://github.com/janvee1201/Leetcode/tree/master/0127-word-ladder) |
 | [0199-binary-tree-right-side-view](https://github.com/janvee1201/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/janvee1201/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/janvee1201/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/janvee1201/Leetcode/tree/master/0994-rotting-oranges) |
 ## Greedy
@@ -143,6 +145,7 @@
 | [0110-balanced-binary-tree](https://github.com/janvee1201/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/janvee1201/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/janvee1201/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/janvee1201/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/janvee1201/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/janvee1201/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
@@ -156,6 +159,7 @@
 | [0110-balanced-binary-tree](https://github.com/janvee1201/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/janvee1201/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/janvee1201/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/janvee1201/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/janvee1201/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/janvee1201/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
@@ -165,6 +169,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/janvee1201/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/janvee1201/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/janvee1201/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/janvee1201/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/janvee1201/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/janvee1201/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Bit Manipulation
@@ -175,4 +180,8 @@
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/janvee1201/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+## Design
+|  |
+| ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/janvee1201/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 <!---LeetCode Topics End-->
