@@ -7,6 +7,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/janvee1201/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0022-generate-parentheses](https://github.com/janvee1201/Leetcode/tree/master/0022-generate-parentheses) |
 | [0087-scramble-string](https://github.com/janvee1201/Leetcode/tree/master/0087-scramble-string) |
+| [0091-decode-ways](https://github.com/janvee1201/Leetcode/tree/master/0091-decode-ways) |
 | [0127-word-ladder](https://github.com/janvee1201/Leetcode/tree/master/0127-word-ladder) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/janvee1201/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1048-longest-string-chain](https://github.com/janvee1201/Leetcode/tree/master/1048-longest-string-chain) |
@@ -20,6 +21,7 @@
 | [0064-minimum-path-sum](https://github.com/janvee1201/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/janvee1201/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/janvee1201/Leetcode/tree/master/0087-scramble-string) |
+| [0091-decode-ways](https://github.com/janvee1201/Leetcode/tree/master/0091-decode-ways) |
 | [0120-triangle](https://github.com/janvee1201/Leetcode/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/janvee1201/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/janvee1201/Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
