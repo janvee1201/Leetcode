@@ -10,6 +10,7 @@
 | [0091-decode-ways](https://github.com/janvee1201/Leetcode/tree/master/0091-decode-ways) |
 | [0127-word-ladder](https://github.com/janvee1201/Leetcode/tree/master/0127-word-ladder) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/janvee1201/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0474-ones-and-zeroes](https://github.com/janvee1201/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [1048-longest-string-chain](https://github.com/janvee1201/Leetcode/tree/master/1048-longest-string-chain) |
 ## Dynamic Programming
 |  |
@@ -31,6 +32,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/janvee1201/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/janvee1201/Leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0368-largest-divisible-subset](https://github.com/janvee1201/Leetcode/tree/master/0368-largest-divisible-subset) |
+| [0474-ones-and-zeroes](https://github.com/janvee1201/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/janvee1201/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/janvee1201/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1048-longest-string-chain](https://github.com/janvee1201/Leetcode/tree/master/1048-longest-string-chain) |
@@ -51,6 +53,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/janvee1201/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/janvee1201/Leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0368-largest-divisible-subset](https://github.com/janvee1201/Leetcode/tree/master/0368-largest-divisible-subset) |
+| [0474-ones-and-zeroes](https://github.com/janvee1201/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/janvee1201/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/janvee1201/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0994-rotting-oranges](https://github.com/janvee1201/Leetcode/tree/master/0994-rotting-oranges) |
