@@ -58,6 +58,7 @@
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/janvee1201/Leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0368-largest-divisible-subset](https://github.com/janvee1201/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0474-ones-and-zeroes](https://github.com/janvee1201/Leetcode/tree/master/0474-ones-and-zeroes) |
+| [0493-reverse-pairs](https://github.com/janvee1201/Leetcode/tree/master/0493-reverse-pairs) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/janvee1201/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/janvee1201/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0994-rotting-oranges](https://github.com/janvee1201/Leetcode/tree/master/0994-rotting-oranges) |
@@ -83,6 +84,7 @@
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/janvee1201/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0300-longest-increasing-subsequence](https://github.com/janvee1201/Leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0493-reverse-pairs](https://github.com/janvee1201/Leetcode/tree/master/0493-reverse-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -108,10 +110,12 @@
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/janvee1201/Leetcode/tree/master/0493-reverse-pairs) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/janvee1201/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## Segment Tree
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/janvee1201/Leetcode/tree/master/0493-reverse-pairs) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/janvee1201/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## Sliding Window
 |  |
@@ -200,6 +204,7 @@
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/janvee1201/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0493-reverse-pairs](https://github.com/janvee1201/Leetcode/tree/master/0493-reverse-pairs) |
 ## Design
 |  |
 | ------- |
@@ -220,4 +225,16 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/janvee1201/Leetcode/tree/master/0234-palindrome-linked-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/janvee1201/Leetcode/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/janvee1201/Leetcode/tree/master/0493-reverse-pairs) |
+## Treap
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/janvee1201/Leetcode/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
