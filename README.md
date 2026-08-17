@@ -12,6 +12,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/janvee1201/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0474-ones-and-zeroes](https://github.com/janvee1201/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [1048-longest-string-chain](https://github.com/janvee1201/Leetcode/tree/master/1048-longest-string-chain) |
+| [2785-sort-vowels-in-a-string](https://github.com/janvee1201/Leetcode/tree/master/2785-sort-vowels-in-a-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/janvee1201/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Dynamic Programming
 |  |
@@ -96,6 +97,7 @@
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/janvee1201/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1048-longest-string-chain](https://github.com/janvee1201/Leetcode/tree/master/1048-longest-string-chain) |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/janvee1201/Leetcode/tree/master/2165-smallest-value-of-the-rearranged-number) |
+| [2785-sort-vowels-in-a-string](https://github.com/janvee1201/Leetcode/tree/master/2785-sort-vowels-in-a-string) |
 ## Hash Table
 |  |
 | ------- |
