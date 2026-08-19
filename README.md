@@ -58,6 +58,7 @@
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/janvee1201/Leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/janvee1201/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/janvee1201/Leetcode/tree/master/0213-house-robber-ii) |
+| [0287-find-the-duplicate-number](https://github.com/janvee1201/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/janvee1201/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/janvee1201/Leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0368-largest-divisible-subset](https://github.com/janvee1201/Leetcode/tree/master/0368-largest-divisible-subset) |
@@ -92,6 +93,7 @@
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/janvee1201/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0287-find-the-duplicate-number](https://github.com/janvee1201/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/janvee1201/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0493-reverse-pairs](https://github.com/janvee1201/Leetcode/tree/master/0493-reverse-pairs) |
 ## Sorting
@@ -125,6 +127,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/janvee1201/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0234-palindrome-linked-list](https://github.com/janvee1201/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/janvee1201/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [1048-longest-string-chain](https://github.com/janvee1201/Leetcode/tree/master/1048-longest-string-chain) |
 ## Binary Indexed Tree
 |  |
@@ -220,6 +223,7 @@
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/janvee1201/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0287-find-the-duplicate-number](https://github.com/janvee1201/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/janvee1201/Leetcode/tree/master/0645-set-mismatch) |
 ## Divide and Conquer
 |  |
@@ -258,4 +262,12 @@
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/janvee1201/Leetcode/tree/master/0493-reverse-pairs) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/janvee1201/Leetcode/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/janvee1201/Leetcode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
