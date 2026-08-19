@@ -72,6 +72,7 @@
 | [0994-rotting-oranges](https://github.com/janvee1201/Leetcode/tree/master/0994-rotting-oranges) |
 | [1048-longest-string-chain](https://github.com/janvee1201/Leetcode/tree/master/1048-longest-string-chain) |
 | [1109-corporate-flight-bookings](https://github.com/janvee1201/Leetcode/tree/master/1109-corporate-flight-bookings) |
+| [2848-points-that-intersect-with-cars](https://github.com/janvee1201/Leetcode/tree/master/2848-points-that-intersect-with-cars) |
 ## Math
 |  |
 | ------- |
@@ -122,6 +123,7 @@
 | [0645-set-mismatch](https://github.com/janvee1201/Leetcode/tree/master/0645-set-mismatch) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/janvee1201/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1048-longest-string-chain](https://github.com/janvee1201/Leetcode/tree/master/1048-longest-string-chain) |
+| [2848-points-that-intersect-with-cars](https://github.com/janvee1201/Leetcode/tree/master/2848-points-that-intersect-with-cars) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/janvee1201/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Two Pointers
 |  |
@@ -275,4 +277,5 @@
 |  |
 | ------- |
 | [1109-corporate-flight-bookings](https://github.com/janvee1201/Leetcode/tree/master/1109-corporate-flight-bookings) |
+| [2848-points-that-intersect-with-cars](https://github.com/janvee1201/Leetcode/tree/master/2848-points-that-intersect-with-cars) |
 <!---LeetCode Topics End-->
