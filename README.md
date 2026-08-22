@@ -6,6 +6,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/janvee1201/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0022-generate-parentheses](https://github.com/janvee1201/Leetcode/tree/master/0022-generate-parentheses) |
+| [0049-group-anagrams](https://github.com/janvee1201/Leetcode/tree/master/0049-group-anagrams) |
 | [0087-scramble-string](https://github.com/janvee1201/Leetcode/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/janvee1201/Leetcode/tree/master/0091-decode-ways) |
 | [0127-word-ladder](https://github.com/janvee1201/Leetcode/tree/master/0127-word-ladder) |
@@ -45,6 +46,7 @@
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/janvee1201/Leetcode/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/janvee1201/Leetcode/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/janvee1201/Leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/janvee1201/Leetcode/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/janvee1201/Leetcode/tree/master/0063-unique-paths-ii) |
@@ -107,6 +109,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/janvee1201/Leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/janvee1201/Leetcode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/janvee1201/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0368-largest-divisible-subset](https://github.com/janvee1201/Leetcode/tree/master/0368-largest-divisible-subset) |
@@ -122,6 +125,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/janvee1201/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/janvee1201/Leetcode/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/janvee1201/Leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/janvee1201/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/janvee1201/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0127-word-ladder](https://github.com/janvee1201/Leetcode/tree/master/0127-word-ladder) |
