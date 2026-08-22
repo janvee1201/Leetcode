@@ -57,6 +57,7 @@
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/janvee1201/Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0152-maximum-product-subarray](https://github.com/janvee1201/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/janvee1201/Leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0189-rotate-array](https://github.com/janvee1201/Leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/janvee1201/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/janvee1201/Leetcode/tree/master/0213-house-robber-ii) |
 | [0287-find-the-duplicate-number](https://github.com/janvee1201/Leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -79,6 +80,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/janvee1201/Leetcode/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/janvee1201/Leetcode/tree/master/0062-unique-paths) |
+| [0189-rotate-array](https://github.com/janvee1201/Leetcode/tree/master/0189-rotate-array) |
 | [0368-largest-divisible-subset](https://github.com/janvee1201/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/janvee1201/Leetcode/tree/master/2165-smallest-value-of-the-rearranged-number) |
 ## Combinatorics
@@ -132,6 +134,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/janvee1201/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/janvee1201/Leetcode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/janvee1201/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/janvee1201/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [1048-longest-string-chain](https://github.com/janvee1201/Leetcode/tree/master/1048-longest-string-chain) |
