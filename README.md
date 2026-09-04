@@ -51,6 +51,7 @@
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/janvee1201/Leetcode/tree/master/0041-first-missing-positive) |
+| [0046-permutations](https://github.com/janvee1201/Leetcode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/janvee1201/Leetcode/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/janvee1201/Leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/janvee1201/Leetcode/tree/master/0056-merge-intervals) |
@@ -175,6 +176,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/janvee1201/Leetcode/tree/master/0022-generate-parentheses) |
+| [0046-permutations](https://github.com/janvee1201/Leetcode/tree/master/0046-permutations) |
 ## Breadth-First Search
 |  |
 | ------- |
