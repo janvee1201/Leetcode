@@ -16,6 +16,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/janvee1201/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/janvee1201/Leetcode/tree/master/0443-string-compression) |
 | [0474-ones-and-zeroes](https://github.com/janvee1201/Leetcode/tree/master/0474-ones-and-zeroes) |
+| [0567-permutation-in-string](https://github.com/janvee1201/Leetcode/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/janvee1201/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [1048-longest-string-chain](https://github.com/janvee1201/Leetcode/tree/master/1048-longest-string-chain) |
 | [2785-sort-vowels-in-a-string](https://github.com/janvee1201/Leetcode/tree/master/2785-sort-vowels-in-a-string) |
@@ -146,6 +147,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/janvee1201/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/janvee1201/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/janvee1201/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/janvee1201/Leetcode/tree/master/0567-permutation-in-string) |
 | [0645-set-mismatch](https://github.com/janvee1201/Leetcode/tree/master/0645-set-mismatch) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/janvee1201/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1048-longest-string-chain](https://github.com/janvee1201/Leetcode/tree/master/1048-longest-string-chain) |
@@ -162,6 +164,7 @@
 | [0234-palindrome-linked-list](https://github.com/janvee1201/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/janvee1201/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0443-string-compression](https://github.com/janvee1201/Leetcode/tree/master/0443-string-compression) |
+| [0567-permutation-in-string](https://github.com/janvee1201/Leetcode/tree/master/0567-permutation-in-string) |
 | [1048-longest-string-chain](https://github.com/janvee1201/Leetcode/tree/master/1048-longest-string-chain) |
 ## Binary Indexed Tree
 |  |
@@ -178,6 +181,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/janvee1201/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/janvee1201/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/janvee1201/Leetcode/tree/master/0567-permutation-in-string) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/janvee1201/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/janvee1201/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Backtracking
