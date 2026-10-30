@@ -89,6 +89,7 @@
 | [0994-rotting-oranges](https://github.com/janvee1201/Leetcode/tree/master/0994-rotting-oranges) |
 | [1048-longest-string-chain](https://github.com/janvee1201/Leetcode/tree/master/1048-longest-string-chain) |
 | [1109-corporate-flight-bookings](https://github.com/janvee1201/Leetcode/tree/master/1109-corporate-flight-bookings) |
+| [1642-furthest-building-you-can-reach](https://github.com/janvee1201/Leetcode/tree/master/1642-furthest-building-you-can-reach) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/janvee1201/Leetcode/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2848-points-that-intersect-with-cars](https://github.com/janvee1201/Leetcode/tree/master/2848-points-that-intersect-with-cars) |
 | [3483-unique-3-digit-even-numbers](https://github.com/janvee1201/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -209,6 +210,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/janvee1201/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0435-non-overlapping-intervals](https://github.com/janvee1201/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/janvee1201/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [1642-furthest-building-you-can-reach](https://github.com/janvee1201/Leetcode/tree/master/1642-furthest-building-you-can-reach) |
 ## Stack
 |  |
 | ------- |
@@ -338,4 +340,8 @@
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/janvee1201/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1642-furthest-building-you-can-reach](https://github.com/janvee1201/Leetcode/tree/master/1642-furthest-building-you-can-reach) |
 <!---LeetCode Topics End-->
