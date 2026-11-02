@@ -92,6 +92,7 @@
 | [0994-rotting-oranges](https://github.com/janvee1201/Leetcode/tree/master/0994-rotting-oranges) |
 | [1048-longest-string-chain](https://github.com/janvee1201/Leetcode/tree/master/1048-longest-string-chain) |
 | [1109-corporate-flight-bookings](https://github.com/janvee1201/Leetcode/tree/master/1109-corporate-flight-bookings) |
+| [1481-least-number-of-unique-integers-after-k-removals](https://github.com/janvee1201/Leetcode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1642-furthest-building-you-can-reach](https://github.com/janvee1201/Leetcode/tree/master/1642-furthest-building-you-can-reach) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/janvee1201/Leetcode/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2848-points-that-intersect-with-cars](https://github.com/janvee1201/Leetcode/tree/master/2848-points-that-intersect-with-cars) |
@@ -137,6 +138,7 @@
 | [0645-set-mismatch](https://github.com/janvee1201/Leetcode/tree/master/0645-set-mismatch) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/janvee1201/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1048-longest-string-chain](https://github.com/janvee1201/Leetcode/tree/master/1048-longest-string-chain) |
+| [1481-least-number-of-unique-integers-after-k-removals](https://github.com/janvee1201/Leetcode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/janvee1201/Leetcode/tree/master/2165-smallest-value-of-the-rearranged-number) |
 | [2785-sort-vowels-in-a-string](https://github.com/janvee1201/Leetcode/tree/master/2785-sort-vowels-in-a-string) |
 ## Hash Table
@@ -156,6 +158,7 @@
 | [0645-set-mismatch](https://github.com/janvee1201/Leetcode/tree/master/0645-set-mismatch) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/janvee1201/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1048-longest-string-chain](https://github.com/janvee1201/Leetcode/tree/master/1048-longest-string-chain) |
+| [1481-least-number-of-unique-integers-after-k-removals](https://github.com/janvee1201/Leetcode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/janvee1201/Leetcode/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [2848-points-that-intersect-with-cars](https://github.com/janvee1201/Leetcode/tree/master/2848-points-that-intersect-with-cars) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/janvee1201/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -215,6 +218,7 @@
 | [0376-wiggle-subsequence](https://github.com/janvee1201/Leetcode/tree/master/0376-wiggle-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/janvee1201/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/janvee1201/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [1481-least-number-of-unique-integers-after-k-removals](https://github.com/janvee1201/Leetcode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1642-furthest-building-you-can-reach](https://github.com/janvee1201/Leetcode/tree/master/1642-furthest-building-you-can-reach) |
 ## Stack
 |  |
@@ -353,4 +357,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/janvee1201/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Counting
+|  |
+| ------- |
+| [1481-least-number-of-unique-integers-after-k-removals](https://github.com/janvee1201/Leetcode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 <!---LeetCode Topics End-->
