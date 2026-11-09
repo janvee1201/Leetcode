@@ -96,6 +96,7 @@
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/janvee1201/Leetcode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1642-furthest-building-you-can-reach](https://github.com/janvee1201/Leetcode/tree/master/1642-furthest-building-you-can-reach) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/janvee1201/Leetcode/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
+| [2537-count-the-number-of-good-subarrays](https://github.com/janvee1201/Leetcode/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2848-points-that-intersect-with-cars](https://github.com/janvee1201/Leetcode/tree/master/2848-points-that-intersect-with-cars) |
 | [3483-unique-3-digit-even-numbers](https://github.com/janvee1201/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Math
@@ -162,6 +163,7 @@
 | [1048-longest-string-chain](https://github.com/janvee1201/Leetcode/tree/master/1048-longest-string-chain) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/janvee1201/Leetcode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/janvee1201/Leetcode/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
+| [2537-count-the-number-of-good-subarrays](https://github.com/janvee1201/Leetcode/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2848-points-that-intersect-with-cars](https://github.com/janvee1201/Leetcode/tree/master/2848-points-that-intersect-with-cars) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/janvee1201/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3483-unique-3-digit-even-numbers](https://github.com/janvee1201/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -194,6 +196,7 @@
 | [0567-permutation-in-string](https://github.com/janvee1201/Leetcode/tree/master/0567-permutation-in-string) |
 | [0713-subarray-product-less-than-k](https://github.com/janvee1201/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/janvee1201/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [2537-count-the-number-of-good-subarrays](https://github.com/janvee1201/Leetcode/tree/master/2537-count-the-number-of-good-subarrays) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/janvee1201/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Backtracking
 |  |
