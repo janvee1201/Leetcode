@@ -49,6 +49,7 @@
 | [0673-number-of-longest-increasing-subsequence](https://github.com/janvee1201/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/janvee1201/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/janvee1201/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0741-cherry-pickup](https://github.com/janvee1201/Leetcode/tree/master/0741-cherry-pickup) |
 | [1048-longest-string-chain](https://github.com/janvee1201/Leetcode/tree/master/1048-longest-string-chain) |
 ## Array
 |  |
@@ -90,6 +91,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/janvee1201/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/janvee1201/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/janvee1201/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0741-cherry-pickup](https://github.com/janvee1201/Leetcode/tree/master/0741-cherry-pickup) |
 | [0994-rotting-oranges](https://github.com/janvee1201/Leetcode/tree/master/0994-rotting-oranges) |
 | [1048-longest-string-chain](https://github.com/janvee1201/Leetcode/tree/master/1048-longest-string-chain) |
 | [1109-corporate-flight-bookings](https://github.com/janvee1201/Leetcode/tree/master/1109-corporate-flight-bookings) |
@@ -118,6 +120,7 @@
 | [0064-minimum-path-sum](https://github.com/janvee1201/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/janvee1201/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/janvee1201/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0741-cherry-pickup](https://github.com/janvee1201/Leetcode/tree/master/0741-cherry-pickup) |
 | [0994-rotting-oranges](https://github.com/janvee1201/Leetcode/tree/master/0994-rotting-oranges) |
 ## Binary Search
 |  |
