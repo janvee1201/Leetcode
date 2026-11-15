@@ -47,6 +47,7 @@
 | [0435-non-overlapping-intervals](https://github.com/janvee1201/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0474-ones-and-zeroes](https://github.com/janvee1201/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0583-delete-operation-for-two-strings](https://github.com/janvee1201/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
+| [0650-2-keys-keyboard](https://github.com/janvee1201/Leetcode/tree/master/0650-2-keys-keyboard) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/janvee1201/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/janvee1201/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/janvee1201/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
@@ -110,6 +111,7 @@
 | [0062-unique-paths](https://github.com/janvee1201/Leetcode/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/janvee1201/Leetcode/tree/master/0189-rotate-array) |
 | [0368-largest-divisible-subset](https://github.com/janvee1201/Leetcode/tree/master/0368-largest-divisible-subset) |
+| [0650-2-keys-keyboard](https://github.com/janvee1201/Leetcode/tree/master/0650-2-keys-keyboard) |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/janvee1201/Leetcode/tree/master/2165-smallest-value-of-the-rearranged-number) |
 ## Combinatorics
 |  |
