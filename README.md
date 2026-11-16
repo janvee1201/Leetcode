@@ -102,6 +102,7 @@
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/janvee1201/Leetcode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1642-furthest-building-you-can-reach](https://github.com/janvee1201/Leetcode/tree/master/1642-furthest-building-you-can-reach) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/janvee1201/Leetcode/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
+| [2197-replace-non-coprime-numbers-in-array](https://github.com/janvee1201/Leetcode/tree/master/2197-replace-non-coprime-numbers-in-array) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/janvee1201/Leetcode/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2848-points-that-intersect-with-cars](https://github.com/janvee1201/Leetcode/tree/master/2848-points-that-intersect-with-cars) |
 | [3483-unique-3-digit-even-numbers](https://github.com/janvee1201/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -114,6 +115,7 @@
 | [0368-largest-divisible-subset](https://github.com/janvee1201/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0650-2-keys-keyboard](https://github.com/janvee1201/Leetcode/tree/master/0650-2-keys-keyboard) |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/janvee1201/Leetcode/tree/master/2165-smallest-value-of-the-rearranged-number) |
+| [2197-replace-non-coprime-numbers-in-array](https://github.com/janvee1201/Leetcode/tree/master/2197-replace-non-coprime-numbers-in-array) |
 ## Combinatorics
 |  |
 | ------- |
@@ -241,6 +243,7 @@
 | ------- |
 | [0085-maximal-rectangle](https://github.com/janvee1201/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0234-palindrome-linked-list](https://github.com/janvee1201/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [2197-replace-non-coprime-numbers-in-array](https://github.com/janvee1201/Leetcode/tree/master/2197-replace-non-coprime-numbers-in-array) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -382,4 +385,16 @@
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/janvee1201/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
+## Number Theory
+|  |
+| ------- |
+| [2197-replace-non-coprime-numbers-in-array](https://github.com/janvee1201/Leetcode/tree/master/2197-replace-non-coprime-numbers-in-array) |
+## Least Common Multiple
+|  |
+| ------- |
+| [2197-replace-non-coprime-numbers-in-array](https://github.com/janvee1201/Leetcode/tree/master/2197-replace-non-coprime-numbers-in-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [2197-replace-non-coprime-numbers-in-array](https://github.com/janvee1201/Leetcode/tree/master/2197-replace-non-coprime-numbers-in-array) |
 <!---LeetCode Topics End-->
